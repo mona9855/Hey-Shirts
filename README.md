@@ -15,3 +15,6 @@
 - Live Link: 
 
 - Screenshot of it:
+![fullProjectScreenshotHomePage1](https://github.com/mona9855/Hey-Shirts/assets/89538929/4ab8ebed-5506-4a01-a77f-f82b782d82eb)
+![fullProjectScreenshotCustomizerPageFileUpload3](https://github.com/mona9855/Hey-Shirts/assets/89538929/caeb47bf-f692-4fc0-883f-376d74fcff2a)
+![FullProjectScreenshotCustomizerPageColorPicker3](https://github.com/mona9855/Hey-Shirts/assets/89538929/72d683b7-abdc-483e-8fb9-044453f12773)
